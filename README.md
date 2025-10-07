@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 Clone, create a venv, install dependencies, and run locally:
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/non-profits-data-enrichment.git
+git clone https://github.com/mhcayan/non-profits-data-enrichment.git
 cd non-profits-data-enrichment
 python -m venv venv
 venv\Scripts\activate #Linux: source venv/bin/activate
